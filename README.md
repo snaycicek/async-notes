@@ -13,3 +13,18 @@ A simple **React Native application** that lets you add text via keyboard input,
 - AsyncStorage (`@react-native-async-storage/async-storage`)  
 - Custom Components
 - Simple UI design with StyleSheet
+
+
+
+
+**Language: Türkçe**
+- # Async Notes
+Klavye ile veri ekleyip listeleyen ve verileri cihazda kalıcı olarak saklayan basit bir React Native uygulaması
+
+## Özellikler
+- Kullanıcıdan metin girişi alır.  
+- Girilen verileri liste halinde ekrana yansıtır.  
+- **AsyncStorage** kullanarak verileri kalıcı olarak saklar (uygulama kapansa bile kayıtlı kalır).  
+- Temiz bir tek sayfa arayüz.  
+- Custom component yapısı ile modüler kod düzeni.
+- 
